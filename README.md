@@ -45,13 +45,13 @@ If your project requires some installation or similar, please inform your user '
 
 # Code review
 
-1. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-2. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-3. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-4. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-5. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-6. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-7. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-8. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-9. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-10. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
+1. + Koden är väldigt lättläst men några fler kommentarer hade inte skadat.
+2. + Snyggt med så många funktioner.
+3. + Inget hårdkodat.
+4. - Kunde använt en funktion för att skicka bokning till databas.
+5. + Bra struktur på projektet (varje sektion har egen php fil med funktioner separerade).
+6. Funktionen "calculateDiscount(int $days)" Kunde varit kompaktare eller integrerat med en totalcost funktion.
+7. Lite otydligt med hur bokade datum för rum visas.
+8. Input från användare är inte saniterad.
+9. Namn på klasser är tydliga, lätt att förstå vad de gör.
+10. Koden är så välkodad och strukturerad så att jag inte kan hitta fler punkter.. :D
