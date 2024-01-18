@@ -45,13 +45,13 @@ If your project requires some installation or similar, please inform your user '
 
 # Code review
 
-1. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-2. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-3. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-4. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-5. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-6. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-7. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-8. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-9. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
-10. example.js:10-15 - Remember to think about X and this could be refactored using the amazing Y function.
+1. Would appreciate more comments and it would be nice if they explained more.
+2. You have constructed a lot of functions which all look good.
+3. Input is not sanitized. But I see you have "TODO" on it in booking.php 15.
+4. Hotel name doesnt respond well to smaller viewports.
+5. Responsivness looks good overall, adpated to 3 types of devices.
+6. Would be nice to have a Home button.
+7. Room availability is a bit confusing, you have a calendar in the rooms page but not when you book.
+8. + Consistent naming on classes.
+9. You could've merged "registerBooking" and "registerFeature" since they both deal with the database. Also "validatePayment" and "depositTransfercode" could be merged.
+10. Overall you have done a really good job, hard to find something to complain about! :D 
